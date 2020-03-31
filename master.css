@@ -95,9 +95,42 @@ margin-top: 100px;
   width:280px;
   height:300px;
   margin-top: 50px;
-
+ border:1px solid #555;
 
 }
+
+
+.sec_1_2{
+  background-image: url("varpett.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+
+  margin:auto;
+  width:280px;
+  height:300px;
+  margin-top: 50px;
+ border:1px solid #555;
+}
+
+@keyframes us {
+
+  0% {transform: rotate(0deg);}
+  50% {transform: rotate(0deg);}
+  100% {transform: rotate(2deg);margin-left:82px;margin-top: 122px}
+}
+
+@keyframes tev {
+
+  0% {transform: rotate(0deg);}
+  50% {transform: rotate(22deg); }
+  100% {transform: rotate(60deg);margin-left:95px;margin-top: 145px}
+}
+
+
+
+
+
 
 @keyframes rolik {
 
