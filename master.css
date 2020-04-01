@@ -113,6 +113,29 @@ margin-top: 100px;
  border:1px solid #555;
 }
 
+.sec_1_3{
+  background-image: url("kaxvarpet.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+
+  margin:auto;
+  width:280px;
+  height:300px;
+  margin-top: 50px;
+ border:1px solid #555;
+}
+@keyframes kaxtev {
+
+  0% {margin-top:23px;}
+  50% {margin-top:25px;}
+  100% {margin-top:27px;}
+}
+
+
+
+
+
 @keyframes us {
 
   0% {transform: rotate(0deg);}
@@ -135,9 +158,9 @@ margin-top: 100px;
 @keyframes rolik {
 
   0% {transform: rotate(-10deg);}
-  25% {transform: rotate(10deg);}
+  25% {transform: rotate(3deg);}
   50% {transform: rotate(-10deg);}
-  75% {transform: rotate(10deg);}
+  75% {transform: rotate(3deg);}
   100% {transform: rotate(-10deg);}
 }
 
