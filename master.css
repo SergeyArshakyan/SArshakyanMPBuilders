@@ -78,7 +78,7 @@
   position:absolute;
   width:100%;
   padding: 10px;
-margin-top: 100px;
+  margin-top: 100px;
 
 
 }
@@ -181,5 +181,8 @@ margin-top: 100px;
   }
   .soc_2{
     display:block;
+  }
+  footer{
+    bottom:0px;
   }
 }
